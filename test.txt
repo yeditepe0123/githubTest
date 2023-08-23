@@ -1,2 +1,4 @@
 hello hi ım kelly
 this is a new file 
+
+2. satırı yazdım
